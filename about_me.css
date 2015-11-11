@@ -1,0 +1,24 @@
+img{
+height: 100px;
+width: 100px;
+}
+
+h1{
+color: #D24600;
+text-align: center;
+}
+
+li{
+    background-color: lightgreen;
+    margin: 5px;
+    width: 185px;
+}
+
+h2{
+    color: lightblue;
+    text-align: center;
+}
+
+body{
+background-color: #FF681C;
+}
